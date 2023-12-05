@@ -1,0 +1,40 @@
+body {
+    background-color: #f2f8fd; 
+    color: #495057; 
+}
+
+.container {
+    background-color: #ffffff; 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    margin-top: 50px;
+}
+
+h1, h2, h5 {
+    color: #e44d26; 
+}
+
+.red {
+    color: #e44d26;
+}
+
+.btn-primary {
+    background-color: #e44d26;
+    border-color: #e44d26; 
+}
+
+.btn-primary:hover {
+    background-color: #d14825; 
+    border-color: #c63f22; 
+}
+
+.table th, .table td {
+    border-color: #e44d26; 
+}
+
+.card {
+    background-color: #ffffff; 
+    border: 1px solid #e44d26; 
+    border-radius: 10px;
+}
